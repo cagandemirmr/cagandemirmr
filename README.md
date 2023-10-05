@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cagan Demir
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning game developming with scratch
+- 🌱 I’m currently learning game development with scratch
 - 💞️ I’m looking to collaborate on CDRedProject
 - 📫 you can reach me on linkedin
 
