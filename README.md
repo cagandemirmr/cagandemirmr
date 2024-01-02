@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cagan Demir
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning game development with scratch
-- 💞️ I’m looking to collaborate on CDRedProject
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Python,SQL and Data Visualization libraries.
+- 💞️ I’m looking to collaborate on Data Analyst Companies
 - 📫 you can reach me on linkedin
 
 <!---
